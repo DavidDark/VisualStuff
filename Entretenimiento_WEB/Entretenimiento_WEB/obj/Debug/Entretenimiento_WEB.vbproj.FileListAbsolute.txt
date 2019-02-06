@@ -1,0 +1,11 @@
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\bin\Debug\Entretenimiento_WEB.exe
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\bin\Debug\Entretenimiento_WEB.pdb
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\bin\Debug\Entretenimiento_WEB.xml
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.Form1.resources
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.Resources.resources
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.exe
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.xml
+C:\Users\link1\source\repos\Entretenimiento_WEB\Entretenimiento_WEB\obj\Debug\Entretenimiento_WEB.pdb
