@@ -1,0 +1,10 @@
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\bin\Debug\ClassLibraryPizza.dll
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\bin\Debug\ClassLibraryPizza.pdb
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\bin\Debug\ClassLibraryPizza.xml
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.vbprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.Resources.resources
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.vbproj.GenerateResource.Cache
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.vbproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.dll
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.xml
+c:\users\link1\source\repos\ClassLibraryPizza\ClassLibraryPizza\obj\Debug\ClassLibraryPizza.pdb
