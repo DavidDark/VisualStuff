@@ -1,0 +1,10 @@
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\bin\Debug\ClassLibraryAgencia.dll
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\bin\Debug\ClassLibraryAgencia.pdb
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\bin\Debug\ClassLibraryAgencia.xml
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.vbprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.Resources.resources
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.vbproj.GenerateResource.Cache
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.vbproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.dll
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.xml
+c:\users\link1\source\repos\ClassLibraryAgencia\ClassLibraryAgencia\obj\Debug\ClassLibraryAgencia.pdb
