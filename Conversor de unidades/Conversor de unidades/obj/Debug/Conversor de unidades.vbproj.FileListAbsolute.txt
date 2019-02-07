@@ -1,0 +1,11 @@
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\bin\Debug\Conversor de unidades.exe
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\bin\Debug\Conversor de unidades.pdb
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\bin\Debug\Conversor de unidades.xml
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor de unidades.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor_de_unidades.Form1.resources
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor_de_unidades.Resources.resources
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor de unidades.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor de unidades.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor de unidades.exe
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor de unidades.xml
+C:\Users\link1\source\repos\Conversor de unidades\Conversor de unidades\obj\Debug\Conversor de unidades.pdb
