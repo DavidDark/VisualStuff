@@ -1,0 +1,14 @@
+C:\Users\link1\source\repos\AppSocio\AppSocio\bin\Debug\AppSocio.exe
+C:\Users\link1\source\repos\AppSocio\AppSocio\bin\Debug\AppSocio.pdb
+C:\Users\link1\source\repos\AppSocio\AppSocio\bin\Debug\AppSocio.xml
+C:\Users\link1\source\repos\AppSocio\AppSocio\bin\Debug\ClassLibrarySocio1.dll
+C:\Users\link1\source\repos\AppSocio\AppSocio\bin\Debug\ClassLibrarySocio1.pdb
+C:\Users\link1\source\repos\AppSocio\AppSocio\bin\Debug\ClassLibrarySocio1.xml
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.Form1.resources
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.Resources.resources
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.exe
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.xml
+C:\Users\link1\source\repos\AppSocio\AppSocio\obj\Debug\AppSocio.pdb
