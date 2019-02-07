@@ -1,0 +1,13 @@
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\bin\Debug\PrimerParcialHospital.exe.config
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\bin\Debug\PrimerParcialHospital.exe
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\bin\Debug\PrimerParcialHospital.pdb
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\bin\Debug\PrimerParcialHospital.xml
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.Form1.resources
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.Form2.resources
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.Form3.resources
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.Resources.resources
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.exe
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.xml
+C:\Users\link1\source\repos\PrimerParcialHospital\PrimerParcialHospital\obj\Debug\PrimerParcialHospital.pdb
