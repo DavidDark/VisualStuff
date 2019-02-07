@@ -1,0 +1,6 @@
+c:\users\link1\source\repos\ClassSocio\ClassSocio\bin\Debug\ClassSocio.dll
+c:\users\link1\source\repos\ClassSocio\ClassSocio\bin\Debug\ClassSocio.pdb
+c:\users\link1\source\repos\ClassSocio\ClassSocio\obj\Debug\ClassSocio.csprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\ClassSocio\ClassSocio\obj\Debug\ClassSocio.csproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\ClassSocio\ClassSocio\obj\Debug\ClassSocio.dll
+c:\users\link1\source\repos\ClassSocio\ClassSocio\obj\Debug\ClassSocio.pdb
