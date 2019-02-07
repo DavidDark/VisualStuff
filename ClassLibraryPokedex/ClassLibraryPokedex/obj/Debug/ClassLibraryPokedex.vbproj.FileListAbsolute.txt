@@ -1,0 +1,10 @@
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\bin\Debug\ClassLibraryPokedex.dll
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\bin\Debug\ClassLibraryPokedex.pdb
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\bin\Debug\ClassLibraryPokedex.xml
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.vbprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.Resources.resources
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.vbproj.GenerateResource.Cache
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.vbproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.dll
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.xml
+c:\users\link1\source\repos\ClassLibraryPokedex\ClassLibraryPokedex\obj\Debug\ClassLibraryPokedex.pdb
