@@ -1,0 +1,12 @@
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe.config
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.exe
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.pdb
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\bin\Debug\AgendaSQL.xml
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Form1.resources
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.Resources.resources
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.exe
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.xml
+C:\Users\link1\source\repos\AgendaSQL\AgendaSQL\obj\Debug\AgendaSQL.pdb
