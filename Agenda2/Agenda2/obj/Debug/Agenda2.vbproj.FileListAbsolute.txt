@@ -1,0 +1,12 @@
+C:\Users\link1\source\repos\Agenda2\Agenda2\bin\Debug\Agenda01.accdb
+C:\Users\link1\source\repos\Agenda2\Agenda2\bin\Debug\Agenda2.exe.config
+C:\Users\link1\source\repos\Agenda2\Agenda2\bin\Debug\Agenda2.exe
+C:\Users\link1\source\repos\Agenda2\Agenda2\bin\Debug\Agenda2.pdb
+C:\Users\link1\source\repos\Agenda2\Agenda2\bin\Debug\Agenda2.xml
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.Form1.resources
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.Resources.resources
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.exe
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.xml
+C:\Users\link1\source\repos\Agenda2\Agenda2\obj\Debug\Agenda2.pdb
