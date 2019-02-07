@@ -1,0 +1,14 @@
+C:\Users\link1\source\repos\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\link1\source\repos\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\link1\source\repos\Cine\Cine\bin\Debug\Cine.xml
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.Form1.resources
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.Form2.resources
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.Form3.resources
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.Form4.resources
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.Resources.resources
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.xml
+C:\Users\link1\source\repos\Cine\Cine\obj\Debug\Cine.pdb
