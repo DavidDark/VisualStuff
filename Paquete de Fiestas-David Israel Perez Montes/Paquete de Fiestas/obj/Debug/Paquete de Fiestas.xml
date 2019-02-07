@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Paquete de Fiestas
+</name>
+</assembly>
+<members>
+<member name="T:Paquete_de_Fiestas.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.dora">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.logo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.mickey">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.minion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.minnie">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.nina">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.nino">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.payaso">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.princesas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Paquete_de_Fiestas.My.Resources.Resources.spiderman">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

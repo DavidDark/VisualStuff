@@ -1,0 +1,15 @@
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\bin\Debug\Paquete de Fiestas.exe
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\bin\Debug\Paquete de Fiestas.pdb
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\bin\Debug\Paquete de Fiestas.xml
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete de Fiestas.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete_de_Fiestas.Form1.resources
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete_de_Fiestas.Form2.resources
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete_de_Fiestas.Form3.resources
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete_de_Fiestas.Form4.resources
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete_de_Fiestas.Form5.resources
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete_de_Fiestas.Resources.resources
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete de Fiestas.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete de Fiestas.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete de Fiestas.exe
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete de Fiestas.xml
+C:\Users\link1\source\repos\Paquete de Fiestas\Paquete de Fiestas\obj\Debug\Paquete de Fiestas.pdb
