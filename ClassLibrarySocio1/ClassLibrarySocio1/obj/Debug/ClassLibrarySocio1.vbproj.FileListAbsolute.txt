@@ -1,0 +1,10 @@
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\bin\Debug\ClassLibrarySocio1.dll
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\bin\Debug\ClassLibrarySocio1.pdb
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\bin\Debug\ClassLibrarySocio1.xml
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.Resources.resources
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.dll
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.xml
+C:\Users\link1\source\repos\ClassLibrarySocio1\ClassLibrarySocio1\obj\Debug\ClassLibrarySocio1.pdb
