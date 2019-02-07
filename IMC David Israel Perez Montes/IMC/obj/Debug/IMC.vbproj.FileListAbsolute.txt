@@ -1,0 +1,12 @@
+c:\users\link1\source\repos\IMC\IMC\bin\Debug\IMC.exe
+c:\users\link1\source\repos\IMC\IMC\bin\Debug\IMC.pdb
+c:\users\link1\source\repos\IMC\IMC\bin\Debug\IMC.xml
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.vbprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.Form1.resources
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.Form2.resources
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.Resources.resources
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.vbproj.GenerateResource.Cache
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.vbproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.exe
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.xml
+c:\users\link1\source\repos\IMC\IMC\obj\Debug\IMC.pdb
