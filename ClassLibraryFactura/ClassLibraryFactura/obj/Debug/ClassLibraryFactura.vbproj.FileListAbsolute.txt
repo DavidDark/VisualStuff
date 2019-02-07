@@ -1,0 +1,10 @@
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\bin\Debug\ClassLibraryFactura.dll
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\bin\Debug\ClassLibraryFactura.pdb
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\bin\Debug\ClassLibraryFactura.xml
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.Resources.resources
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.dll
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.xml
+C:\Users\link1\source\repos\ClassLibraryFactura\ClassLibraryFactura\obj\Debug\ClassLibraryFactura.pdb
