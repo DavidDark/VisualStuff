@@ -1,0 +1,10 @@
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\bin\Debug\ClassLibraryEmpleado.dll
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\bin\Debug\ClassLibraryEmpleado.pdb
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\bin\Debug\ClassLibraryEmpleado.xml
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.vbprojResolveAssemblyReference.cache
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.Resources.resources
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.vbproj.GenerateResource.Cache
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.vbproj.CoreCompileInputs.cache
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.dll
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.xml
+C:\Users\link1\source\repos\ClassLibraryEmpleado\ClassLibraryEmpleado\obj\Debug\ClassLibraryEmpleado.pdb
