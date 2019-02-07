@@ -1,0 +1,10 @@
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\bin\Debug\ClassLibraryPedidos.dll
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\bin\Debug\ClassLibraryPedidos.pdb
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\bin\Debug\ClassLibraryPedidos.xml
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.vbprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.Resources.resources
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.vbproj.GenerateResource.Cache
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.vbproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.dll
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.xml
+c:\users\link1\source\repos\ClassLibraryPedidos\ClassLibraryPedidos\obj\Debug\ClassLibraryPedidos.pdb
