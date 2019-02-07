@@ -1,0 +1,13 @@
+c:\users\link1\source\repos\Agenda1\Agenda1\bin\x86\Debug\Agenda01.accdb
+c:\users\link1\source\repos\Agenda1\Agenda1\bin\x86\Debug\Agenda1.exe.config
+c:\users\link1\source\repos\Agenda1\Agenda1\bin\x86\Debug\Agenda1.exe
+c:\users\link1\source\repos\Agenda1\Agenda1\bin\x86\Debug\Agenda1.pdb
+c:\users\link1\source\repos\Agenda1\Agenda1\bin\x86\Debug\Agenda1.xml
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.vbprojResolveAssemblyReference.cache
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.Form1.resources
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.Resources.resources
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.vbproj.GenerateResource.Cache
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.vbproj.CoreCompileInputs.cache
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.exe
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.xml
+c:\users\link1\source\repos\Agenda1\Agenda1\obj\x86\Debug\Agenda1.pdb
